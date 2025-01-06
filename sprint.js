@@ -51,7 +51,7 @@ var Sprint;
       return stringValue
     }
   }())
- OpUMAMvsJc
+
   var createDOM = function(HTMLString) {
     var tmp = document.createElement("div")
     var tag = /[\w:-]+/.exec(HTMLString)[0]
