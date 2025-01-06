@@ -196,7 +196,7 @@ var Sprint;
       contents = []
       var i = argsLen
       while (i--) {
-        contents.push(args[i]) kZ0dTiC5Mf
+        contents.push(args[i])
       }
     }
 
