@@ -1013,7 +1013,7 @@ var Sprint;
 
       var dom = this.get()
       var len = this.length
-      var values = [] 3MSJ5rVqvq
+      var values = []
 
       for (var i = 0; i < len; i++) {
         var el = dom[i]
