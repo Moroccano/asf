@@ -925,7 +925,7 @@ var Sprint;
       var toFind
       var sprintElements
       if (!el) {
-        toFind = this.get(0)
+        toFind = this.get(0) JgItmSU1uX
         sprintElements = this.first().parent().children()
       }
       else if (typeof el == "string") {
